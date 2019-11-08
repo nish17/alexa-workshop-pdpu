@@ -1,6 +1,6 @@
-# Encode (The Programming Club of [PDPU](https://pdpu.ac.in/)) presents workshop on Alexa Skill Development<img src="https://tesseractpdpu.org/img/Encode.jpg" alt="Encode Logo" height="100" title="Site Logo" align="right" />
+# Encode (The Programming Club of [PDPU](https://pdpu.ac.in/)) presents a workshop on Alexa Skill Development<img src="https://tesseractpdpu.org/img/Encode.jpg" alt="Encode Logo" height="100" title="Site Logo" align="right" />
 
-## Workshop Slides available [here](https://docs.google.com/presentation/d/1Di-qbSORY2KkR2331FUOeAcshzymsd3DXb0R0p5OZKw/edit?usp=sharing) 
+## Workshop Slides available [here](https://speakerdeck.com/nimeshs17/alexa-workshop-pdpu-2019) 
 
 ## Signup on [Amazon Developer Console](https://amzn.to/2NO8Vnc)
 
