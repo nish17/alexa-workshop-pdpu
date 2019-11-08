@@ -11,6 +11,9 @@
 
  Submit your Vendor ID [over here](http://bit.ly/PDPUALEXAWP)
 
+## Speaker Feedback Form
+  Give Nimesh feedback on how his latest talk went so he can get better at doing presentations.
+  Please fill this [form](http://bit.ly/NISHFDBK)
 
 ## ❤️ Credits
 
