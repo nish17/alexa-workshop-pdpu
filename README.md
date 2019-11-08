@@ -10,3 +10,11 @@
  Please make sure that you are logged in using Amazon Developer Account Credentials 
 
  Submit your Vendor ID [over here](http://bit.ly/PDPUALEXAWP)
+
+
+## ❤️ Credits
+
+* [Pandit Deendayal Petroleum Univeristy](https://pdpu.ac.in/)
+* [Tesseract (Tech-Fest of PDPU)](tesseractpdpu.org)
+* [Encode (Programming Club of PDPU)](http://instagram.com/encode_pdpu)
+* [Amazon Alexa team](https://alexa.amazon.com/)
